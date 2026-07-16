@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+resume.pdf
+fit_report.md
+jd.pdf
+test_report.pdf
+
+# Virtual environments
+.venv
