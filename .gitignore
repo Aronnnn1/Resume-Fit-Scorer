@@ -13,3 +13,4 @@ test_report.pdf
 
 # Virtual environments
 .venv
+.DS_Store
